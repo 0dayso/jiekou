@@ -1,4 +1,4 @@
-项目名：zzhlottery
+﻿项目名：zzhlottery
 
 
 环境：
@@ -78,9 +78,3 @@ model层用开源框架medoo
 初始化接口：http://lottery.yboard.cn/index/initlottery
 
 抽奖接口：http://lottery.yboard.cn/index/lottery
-
-邮箱：
-
-532207815@qq.com
-
-QQ:532207815
